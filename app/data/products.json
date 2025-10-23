@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Lays Classic Salted Chips",
+      "price": 40,
+      "category": "food",
+      "imageUrl": "https://m.media-amazon.com/images/I/61e+UwnsWwL.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kurkure Masala Munch",
+      "price": 20,
+      "category": "food",
+      "imageUrl": "https://m.media-amazon.com/images/I/71LyKlizpuL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Full Toss Chilli Chatka",
+      "price": 15,
+      "category": "food",
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=1080/app/images/products/sliding_image/447617a.jpg?ts=1688634170"
+    },
+    {
+      "id": 4,
+      "name": "Bingo Mad Angles Tomato Twist",
+      "price": 30,
+      "category": "food",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpGjhBRZZRNer1XUDaDngg7Samb_-CjPiRYw&s"
+    },
+    {
+      "id": 5,
+      "name": "Cheetos Crunchy Cheese",
+      "price": 35,
+      "category": "food",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8v7EoOj6nbRe0IOrbQ4ze6wuVtDE3ZOPyQ&s"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 14 Pro Transparent Case",
+      "price": 350,
+      "category": "phone case",
+      "imageUrl": "https://ringke.co.in/cdn/shop/products/71XtZ-9bFUL._SL1500.jpg?v=1672834853"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy S23 Ultra Case",
+      "price": 300,
+      "category": "phone case",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Y+nMMKTuL.jpg"
+    },
+    {
+      "id": 8,
+      "name": "OnePlus 12R Matte Black Case",
+      "price": 250,
+      "category": "phone case",
+      "imageUrl": "https://m.media-amazon.com/images/I/61c+-zyrhkL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Redmi Note 13 Pro Soft Cover",
+      "price": 200,
+      "category": "phone case",
+      "imageUrl": "https://m.media-amazon.com/images/I/61tCIRMLYQL._UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 8 Shockproof Case",
+      "price": 270,
+      "category": "phone case",
+      "imageUrl": "https://m.media-amazon.com/images/I/51JHqD36KnL.jpg"
+    }
+  ]
