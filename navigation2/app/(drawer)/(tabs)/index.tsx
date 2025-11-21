@@ -1,9 +1,12 @@
-import { Link } from 'expo-router';
+import { Link, useRouter } from 'expo-router';
 import React from 'react';
 import { ImageBackground, Pressable, StyleSheet, Text, View } from 'react-native';
 import openHeimarImage from '../../../assets/images/Oppenheimer_(film) poster.jpg';
 
 const App = () => {
+
+  const router = useRouter();
+
   return (
     <View style={styles.container}>
       <ImageBackground source={openHeimarImage} style={styles.backgorundImage} resizeMode='cover'>
@@ -18,6 +21,7 @@ const App = () => {
             <Text style={styles.link}>Go To link check</Text>
           </Pressable>
         </Link>
+        <Pressable onPress={() => router.push('/feeds/3')}><Text style={styles.link}>Go To feed 3</Text></Pressable>
       </ImageBackground>
     </View>
   )
